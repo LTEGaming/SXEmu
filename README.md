@@ -4,6 +4,7 @@ The First Nintendo Switch Emulator to be in development.
 Place holder 'till development starts.
 
 #Things to do before development:
+
 -Confirm Switch Hardware(Tegra X1 or X2).
 
 -Dissassemble SwitchOS.
@@ -12,17 +13,19 @@ Place holder 'till development starts.
 
 -Basically Everything.
 
--Don't expect this any time soon.
+-Don't expect this any time soon. [DONE]
 
-**Things that work**
+
+**Things that work**:
 
 -None
 
-**Things that don't work**
+**Things that don't work**:
 
 -Everything
 
-***Things that will never work***
+
+***Things that will never work***:
 
 -Switch online
 
