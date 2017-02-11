@@ -8,7 +8,7 @@ Place holder 'till development starts.
 
 #Things to do before development:
 
--Confirm Switch Hardware(Tegra X1 or X2).
+-Confirm Switch Hardware(Tegra X1 or X2) Thankfully AArch64.
 
 -Dissassemble SwitchOS.
 
