@@ -1,4 +1,4 @@
-# NXEmu
+# NXEmu or NXE
 The First Nintendo Switch Emulator to be in development.
 
 Place holder 'till development starts.
