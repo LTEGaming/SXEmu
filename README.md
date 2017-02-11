@@ -14,15 +14,15 @@ Place holder 'till development starts.
 
 -Don't expect this any time soon.
 
-***Things that work
+**Things that work**
 
 -None
 
-***Things that don't work
+**Things that don't work**
 
 -Everything
 
-***Things that will never work
+***Things that will never work***
 
 -Switch online
 
