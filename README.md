@@ -5,7 +5,7 @@ The First Nintendo Switch Emulator to be in development.
 
 Place holder 'till development starts.
 
-#Things to do before development:
+# Things to do before development:
 
 -Confirm Switch Hardware(Tegra X1 or X2) Thankfully AArch64.
 
@@ -17,7 +17,7 @@ Place holder 'till development starts.
 
 -Don't expect this any time soon. [DONE]
 
-#Compatibility:
+# Compatibility:
 
 **Things that work**:
 
