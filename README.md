@@ -3,36 +3,28 @@
 #
 The First Nintendo Switch Emulator to be in development.
 
-Place holder 'till development starts.
+Placeholder 'till development starts.
 
-#Things to do before development:
+# Things to do before development:
 
--Confirm Switch Hardware(Tegra X1 or X2) Thankfully AArch64.
+- Confirm Switch Hardware(Tegra X1 or X2) Thankfully AArch64.
+- Dissassemble SwitchOS.
+- Decrypt a Switch Game.
+- Basically Everything.
+- Don't expect this any time soon. [DONE]
 
--Dissassemble SwitchOS.
-
--Decrypt a Switch Game.
-
--Basically Everything.
-
--Don't expect this any time soon. [DONE]
-
-#Compatibility:
+# Compatibility:
 
 **Things that work**:
 
--None
+- None
 
 **Things that don't work**:
 
--Everything
-
+- Everything
 
 ***Things that will never work***:
 
--Switch online
-
--Real Joycons
-
--Non-local Multiplayer
-
+- Switch online
+- Real Joycons
+- Non-local Multiplayer
